@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# Back-end | Query Builder
+# Back-end | Deploy
 
 ## Exercícios de classe 🏫
 
