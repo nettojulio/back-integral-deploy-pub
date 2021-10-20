@@ -1,16 +1,22 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# Back-end | Deploy
+# Exercício de classe 🏫
 
-## Exercícios de classe 🏫
+## Fazer deploy de uma aplicação no Heroku
 
-1.  Fazer deploy de uma aplicação no Heroku
+Na aula anterior você refatorou sua aplicação para utilizar o `Query Builder` com o `Knex.js` e agora chegou o grande momento de colocar sua aplicação no ar.
 
-Preencha a checklist para fazer os exercícios:
+Faça o deploy dessa aplicação no Heroku e teste os endpoints no insomnia para garantir que sua aplicação está funcionando perfeitamente.
 
-- [x] Fazer o fork do repositório para sua conta
-- [x] Executar `git clone` do seu fork no terminal para clonar o repositório, ou clonar de outra maneira
-- [x] Após fazer e commitar todos os exercícios fazer o `git push` para seu fork
-- [x] Copiar a url do seu fork e enviar na plataforma
+Lembrando que o banco de dados precisa ser configurado no Heroku e suas credenciais precisa ser atualizadas na aplicação.
+
+---
+
+Preencha a checklist para finalizar o exercício:
+
+- [x] Resolver o exercício revendo a aula se necessário
+- [x] Adicionar as mudanças aos commits (`git add .` para adicionar todos os arquivos ou `git add nome_do_arquivo` para adicionar um arquivo específico)
+- [x] Commitar a cada mudança significativa ou na finalização do exercício (`git commit -m "Mensagem do commit"`)
+- [x] Pushar os commits no seu fork na origem (`git push origin nome-da-branch`)
 
 ###### tags: `back-end` `módulo 4` `nodeJS` `PostgreSQL` `API REST` `deploy` `query builder`
